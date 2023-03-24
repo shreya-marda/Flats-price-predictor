@@ -1,4 +1,4 @@
-# Project for predicting prices of flats
+# Project for predicting the prices of real-estate
 
 ### Problem statement
 
